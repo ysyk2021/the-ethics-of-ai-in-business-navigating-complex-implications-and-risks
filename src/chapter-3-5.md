@@ -1,5 +1,4 @@
-The Ethical Frameworks for AI in Business
-=======================================================================================
+
 
 As artificial intelligence (AI) becomes more prevalent in business, it is important to ensure that its use is guided by ethical principles and frameworks. In this chapter, we will explore the various ethical frameworks that can be used to guide the development and deployment of AI systems in business.
 

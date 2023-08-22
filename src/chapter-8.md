@@ -1,5 +1,4 @@
-Chapter 8: Governance and Regulation in AI in Business
-======================================================
+
 
 The use of artificial intelligence (AI) in business has the potential to transform industries, but it also raises significant ethical concerns about governance and regulation. In this chapter, we will explore the role of governance and regulation in AI in business, international and national perspectives on AI governance and regulation in business, and the future of AI governance and regulation in business.
 

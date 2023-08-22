@@ -1,5 +1,4 @@
-Utilitarianism
-============================================================
+
 
 Utilitarianism is an ethical framework that emphasizes the greatest good for the greatest number of people. In the context of AI in business, this means that decisions about the use of AI should be guided by their potential to create the most benefits for the most people. In this chapter, we will explore utilitarianism in more detail and how it can be applied to AI in business.
 

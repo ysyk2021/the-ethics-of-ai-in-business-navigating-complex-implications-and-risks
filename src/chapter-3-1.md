@@ -1,5 +1,4 @@
-Introduction to Ethical Principles
-================================================================================
+
 
 As artificial intelligence (AI) becomes more prevalent in business, it is important to ensure that its use is guided by ethical principles. In this chapter, we will introduce some of the key ethical principles that can be used to guide the development and deployment of AI systems in business.
 

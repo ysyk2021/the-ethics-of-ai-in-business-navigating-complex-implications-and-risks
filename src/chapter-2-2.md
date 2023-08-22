@@ -1,5 +1,4 @@
-Types of AI in Business
-================================================================
+
 
 Artificial intelligence (AI) has become a ubiquitous technology in modern businesses. In this chapter, we will explore the different types of AI that are commonly used in business contexts.
 

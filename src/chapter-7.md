@@ -1,5 +1,4 @@
-Chapter 7: Transparency and Accountability in AI in Business
-============================================================
+
 
 The use of artificial intelligence (AI) in business can have significant impacts on stakeholders, including customers, employees, and the broader community. To ensure responsible and ethical use of AI, businesses must prioritize transparency and accountability. In this chapter, we will explore why transparency and accountability are important in AI in business, how to achieve transparency in AI decision-making, and how to ensure accountability in AI in business.
 

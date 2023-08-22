@@ -1,5 +1,4 @@
-Ensuring Accountability in AI in Business
-=======================================================================================================
+
 
 As artificial intelligence (AI) becomes more prevalent in the business world, it is important to ensure that it is used ethically and with accountability. In this chapter, we will explore the importance of transparency and accountability in AI in business and provide strategies for ensuring accountability.
 

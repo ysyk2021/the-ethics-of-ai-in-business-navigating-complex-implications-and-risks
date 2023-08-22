@@ -1,5 +1,4 @@
-Why Ethics in AI for Business Is Important
-===================================================================
+
 
 Artificial intelligence (AI) has become an increasingly important technology for businesses around the world. However, as AI becomes more prevalent, it is important to consider the ethical implications of its use in business contexts. In this chapter, we will explore why ethics in AI for business is important.
 

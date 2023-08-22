@@ -1,5 +1,4 @@
-Virtue Ethics
-===========================================================
+
 
 Virtue ethics is an ethical framework that emphasizes character and virtues. In the context of AI in business, this means that decisions about the use of AI should be guided by the virtues of the individuals involved in the decision-making process. In this chapter, we will explore virtue ethics in more detail and how it can be applied to AI in business.
 
