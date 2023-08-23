@@ -1,5 +1,4 @@
 
-
 As the use of artificial intelligence (AI) in business continues to grow, there is a need for governance and regulation to ensure responsible and ethical use of AI. In this chapter, we will explore international and national perspectives on AI governance and regulation in business.
 
 International Perspectives on AI Governance and Regulation
@@ -31,5 +30,4 @@ Conclusion
 ----------
 
 In conclusion, governance and regulation are essential considerations in the use of AI in business. International and national perspectives on AI governance and regulation provide a framework for promoting responsible and ethical use of AI. In addition to government regulations, businesses can establish their own governance frameworks and self-regulatory measures for AI. However, there are also challenges associated with AI governance and regulation, which must be addressed as the use of AI continues to grow.
-
 

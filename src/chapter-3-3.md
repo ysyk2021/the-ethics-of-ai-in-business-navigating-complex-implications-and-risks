@@ -1,5 +1,4 @@
 
-
 Deontological ethics is an ethical framework that emphasizes rules and duties. In the context of AI in business, this means that decisions about the use of AI should be guided by a set of rules or principles that reflect ethical values. In this chapter, we will explore deontological ethics in more detail and how it can be applied to AI in business.
 
 What is Deontological Ethics?

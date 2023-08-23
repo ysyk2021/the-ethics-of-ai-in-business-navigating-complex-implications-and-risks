@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has revolutionized the business world, enabling organizations to automate various tasks and make quicker, data-driven decisions. However, AI is not free from bias, which can lead to unfair or discriminatory outcomes. In this chapter, we will explore the concept of bias in AI in business, its types, and sources.
 
 Overview of bias in AI in business

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to transform businesses and industries, but it is not without its challenges. One of the most pressing concerns is the issue of bias in AI in business. In this chapter, we will provide an overview of bias in AI in business, including its causes and impacts.
 
 What is Bias in AI in Business?

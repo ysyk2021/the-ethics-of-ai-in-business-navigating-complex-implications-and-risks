@@ -1,5 +1,4 @@
 
-
 The use of artificial intelligence (AI) in business has the potential to transform industries, but it also raises significant ethical concerns. To ensure that AI is used in a responsible and ethical manner, there is a need for governance and regulation. In this chapter, we will explore the role of governance and regulation in AI in business.
 
 The Importance of Governance and Regulation in AI in Business

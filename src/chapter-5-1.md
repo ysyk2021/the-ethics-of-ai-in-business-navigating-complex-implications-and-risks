@@ -1,5 +1,4 @@
 
-
 The use of artificial intelligence (AI) in business has the potential to transform industries, but it also raises significant ethical concerns about fairness and justice. In this chapter, we will explore what fairness and justice mean in the context of AI in business.
 
 Defining Fairness in AI in Business

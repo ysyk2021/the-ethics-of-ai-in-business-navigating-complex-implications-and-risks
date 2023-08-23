@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has been a topic of interest and research for several decades. In this chapter, we will provide a historical overview of AI in business, exploring the evolution of AI technology and its use in various industries.
 
 Early Developments in AI

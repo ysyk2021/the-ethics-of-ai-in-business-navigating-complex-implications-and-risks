@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize the business world by automating tasks and making data-driven decisions. However, AI is not immune to bias. Bias in AI can lead to unfair or discriminatory outcomes, which can have serious consequences for individuals and society. In this chapter, we will explore the types of bias that can occur in AI in business.
 
 Sampling Bias

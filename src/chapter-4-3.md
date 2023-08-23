@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize the way businesses operate. However, AI is not immune to bias, which can lead to unfair or discriminatory outcomes. In this chapter, we will explore the sources of bias that can occur in AI in business.
 
 Data Collection Bias
