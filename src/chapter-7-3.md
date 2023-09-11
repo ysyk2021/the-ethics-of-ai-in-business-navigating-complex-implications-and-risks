@@ -1,5 +1,4 @@
-Chapter: Ensuring Accountability in AI in Business
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of accountability in the development, deployment, and use of artificial intelligence (AI) systems in business contexts. Accountability ensures that appropriate actions are taken, responsibilities are assigned, and ethical standards are upheld throughout the AI lifecycle.
 

@@ -1,5 +1,4 @@
-Chapter 5: Overview of Bias in AI in Business
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the world of business, the integration of artificial intelligence (AI) brings forth immense opportunities for growth and efficiency. However, it is essential to recognize and address the potential issue of bias that can arise within AI systems. This chapter provides an overview of bias in AI, exploring its implications and risks within the business context.
 

@@ -1,5 +1,4 @@
-Chapter: Deontological Ethics
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of deontological ethics in the context of artificial intelligence (AI) in business. Deontological ethics is a philosophical approach that emphasizes the inherent moral duties and principles that guide ethical decision-making. We will examine the key principles of deontological ethics and their implications for AI in business.
 

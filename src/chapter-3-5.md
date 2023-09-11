@@ -1,5 +1,4 @@
-Chapter: The Ethical Frameworks for AI in Business
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical frameworks that guide the responsible development and deployment of artificial intelligence (AI) in a business context. These frameworks provide a set of principles and guidelines to address the complex ethical implications and risks associated with AI.
 

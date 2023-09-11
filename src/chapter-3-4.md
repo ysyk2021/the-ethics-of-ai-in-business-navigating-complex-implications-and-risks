@@ -1,5 +1,4 @@
-Chapter: Virtue Ethics in AI in Business
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of virtue ethics and its application in shaping ethical behavior and decision-making in the realm of artificial intelligence (AI) in business. Virtue ethics offers a framework that emphasizes the cultivation of virtuous character traits and promotes ethical conduct in the development, deployment, and use of AI systems.
 

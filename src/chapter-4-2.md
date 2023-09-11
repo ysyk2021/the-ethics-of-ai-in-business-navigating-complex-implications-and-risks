@@ -1,5 +1,4 @@
-Chapter: Types of Bias in AI in Business
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As businesses rely more on artificial intelligence (AI) to make decisions, we need to be mindful of the potential for bias in these systems. This chapter will explore the various types of bias that can occur in AI in business, how they arise, and their implications.
 

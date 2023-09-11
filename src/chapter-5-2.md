@@ -1,5 +1,4 @@
-Chapter: Ensuring Fairness and Justice in AI in Business
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how businesses can ensure fairness and justice in the development, deployment, and use of artificial intelligence (AI) systems. Fairness and justice considerations are crucial to mitigate potential biases, discrimination, and unfair outcomes that may arise from AI utilization.
 

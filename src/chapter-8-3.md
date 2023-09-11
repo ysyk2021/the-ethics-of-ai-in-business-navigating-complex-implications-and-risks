@@ -1,5 +1,4 @@
-Chapter: The Future of AI Governance and Regulation in Business
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Author: binjie09*
 

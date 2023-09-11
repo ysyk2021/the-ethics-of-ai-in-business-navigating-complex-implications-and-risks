@@ -1,5 +1,4 @@
-Chapter: How AI Works in a Business Context
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the inner workings of artificial intelligence (AI) and how it operates within a business context. We'll explore the key components and processes that enable AI systems to function, along with their implications and considerations.
 

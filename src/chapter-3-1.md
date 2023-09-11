@@ -1,5 +1,4 @@
-Chapter: Introduction to Ethical Principles
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to the ethical principles that are relevant to the field of artificial intelligence (AI) in business. Understanding these principles is essential for navigating the complex implications and risks associated with AI technology. We will explore key ethical frameworks and their application in the context of AI ethics.
 

@@ -1,5 +1,4 @@
-Chapter: Utilitarianism
-=======================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of utilitarianism in the context of artificial intelligence (AI) in business. Utilitarianism is a consequentialist ethical framework that focuses on maximizing overall well-being or utility. We will examine the key principles of utilitarianism and their implications for AI in business.
 

@@ -1,5 +1,4 @@
-Chapter: Sources of Bias in AI in Business
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) becomes increasingly integrated into business processes, it is essential to address the issue of bias within AI systems. This chapter explores the various sources of bias in AI and highlights the implications and risks they pose for businesses.
 

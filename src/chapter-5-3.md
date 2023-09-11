@@ -1,5 +1,4 @@
-Chapter: Legal Considerations
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the legal considerations that businesses must navigate when dealing with artificial intelligence (AI) in a business context. These legal considerations help ensure compliance with relevant laws and regulations and mitigate potential legal risks associated with AI implementation.
 

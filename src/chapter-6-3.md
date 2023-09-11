@@ -1,5 +1,4 @@
-Chapter: Safeguards for Privacy and Security in AI in Business
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 With the growing integration of AI technologies in businesses, there is a need to ensure that the collection, use, and storage of data are done responsibly to prevent privacy violations and security breaches. This chapter highlights the safeguards that businesses can implement to protect the privacy and security of their customers and stakeholders.
 

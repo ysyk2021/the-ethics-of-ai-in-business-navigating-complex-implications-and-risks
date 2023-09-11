@@ -1,5 +1,4 @@
-Chapter: Types of AI in Business
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of artificial intelligence (AI) that are prevalent in a business context. We'll examine the key characteristics, applications, and considerations associated with each type.
 

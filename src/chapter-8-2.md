@@ -1,5 +1,4 @@
-Chapter: International and National Perspectives on AI Governance and Regulation in Business
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the international and national perspectives on AI governance and regulation in the context of business. As artificial intelligence (AI) continues to advance and impact various industries, it is essential to examine the diverse approaches taken by different countries and international organizations to govern and regulate AI technology. We will discuss key considerations, challenges, and trends in AI governance and regulation.
 

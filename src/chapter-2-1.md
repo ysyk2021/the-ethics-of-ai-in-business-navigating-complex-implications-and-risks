@@ -1,5 +1,4 @@
-Chapter: Historical Overview of AI in Business
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the historical evolution of artificial intelligence (AI) in the context of business. From its early beginnings to its present-day applications, we will examine key milestones, breakthroughs, and the impact of AI on various industries.
 
